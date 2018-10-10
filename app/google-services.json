@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735255250913",
+    "firebase_url": "https://tablayout-219002.firebaseio.com",
+    "project_id": "tablayout-219002",
+    "storage_bucket": "tablayout-219002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735255250913:android:2f08be52ecd939ed",
+        "android_client_info": {
+          "package_name": "com.unior.sanc.tablayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735255250913-40mf3lh1dd1mo70mde2b1aghr7q5vpuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unior.sanc.tablayout",
+            "certificate_hash": "0fe81034481c2ca8d471e9b9649d419f4509ac16"
+          }
+        },
+        {
+          "client_id": "735255250913-8o1i09eecl3a9s9bm4g399tbbku59ehf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdc2EvGIaavi3352QyrXXDzh1HBof1ty0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735255250913-8o1i09eecl3a9s9bm4g399tbbku59ehf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
